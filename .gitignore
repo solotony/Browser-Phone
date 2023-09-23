@@ -9,3 +9,8 @@ ehthumbs.db
 Thumbs.db
 .vscode/settings.json
 .DS_Store
+
+#IDEA generated files #
+######################
+.idea
+
